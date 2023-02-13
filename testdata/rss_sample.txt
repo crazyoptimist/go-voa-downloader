@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">     
+    <channel>      
+        <title>VOA Asia - Voice of America</title>     
+        <link>https://www.voanews.com/z/5082</link>
+        <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+        <itunes:summary>VOA Asia presents the best and most interesting stories from our veteran reporters covering Asia. VOA Asia tells what U.S.-Asian relationships might mean in your daily life, and what Asians think about life in the United States.</itunes:summary>
+        <description>VOA Asia presents the best and most interesting stories from our veteran reporters covering Asia. VOA Asia tells what U.S.-Asian relationships might mean in your daily life, and what Asians think about life in the United States.</description>
+        <itunes:explicit>no</itunes:explicit>
+        <language>en</language>
+        <copyright>2023 - VOA</copyright>   
+        <ttl>60</ttl>        
+        <lastBuildDate>Mon, 13 Feb 2023 14:08:51 -0500</lastBuildDate> 
+        <generator>Pangea CMS – VOA</generator>        
+          <itunes:author>VOA</itunes:author>
+                    <itunes:owner>
+                        <itunes:name>VOA</itunes:name>
+                        <itunes:email>webdesk@voanews.com</itunes:email>
+                    </itunes:owner>
+                    <itunes:type>episodic</itunes:type><itunes:category text="News &amp; Politics"/>
+                <atom:link href="https://www.voanews.com/podcast/?zoneId=5082" rel="self" type="application/rss+xml" />
+    		<item>
+            <title>VOA Asia - April 21, 2022</title>
+            <description>VOA Asia presents the best and most interesting stories from our veteran reporters covering East Asia and the Pacific. VOA Asia tells what U.S.-Asian relationships might mean in your daily life, and what Asians think about life in the United States.</description>
+            <guid>https://www.voanews.com/a/6518532.html</guid>            
+            <pubDate>Thu, 21 Apr 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>VOA Asia presents the best and most interesting stories from our veteran reporters covering East Asia and the Pacific. VOA Asia tells what U.S.-Asian relationships might mean in your daily life, and what Asians think about life in the United States.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/04/21/20220421-220500-VEN060-program.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - April 20, 2022</title>
+            <description>VOA Asia presents the best and most interesting stories from our veteran reporters covering East Asia and the Pacific. VOA Asia tells what U.S.-Asian relationships might mean in your daily life, and what Asians think about life in the United States.</description>
+            <guid>https://www.voanews.com/a/6516970.html</guid>            
+            <pubDate>Wed, 20 Apr 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>VOA Asia presents the best and most interesting stories from our veteran reporters covering East Asia and the Pacific. VOA Asia tells what U.S.-Asian relationships might mean in your daily life, and what Asians think about life in the United States.</itunes:summary>
+                <itunes:duration>00:25:00</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/04/20/20220420-220500-VEN060-program.mp3" type="audio/mpeg" length="24576000" />
+        </item>		
+        <item>
+            <title>VOA Asia - April 19, 2022</title>
+            <description>VOA Asia presents the best and most interesting stories from our veteran reporters covering East Asia and the Pacific. VOA Asia tells what U.S.-Asian relationships might mean in your daily life, and what Asians think about life in the United States.</description>
+            <guid>https://www.voanews.com/a/6515346.html</guid>            
+            <pubDate>Tue, 19 Apr 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>VOA Asia presents the best and most interesting stories from our veteran reporters covering East Asia and the Pacific. VOA Asia tells what U.S.-Asian relationships might mean in your daily life, and what Asians think about life in the United States.</itunes:summary>
+                <itunes:duration>00:24:56</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/04/19/20220419-220500-VEN060-program.mp3" type="audio/mpeg" length="24510464" />
+        </item>		
+        <item>
+            <title>VOA Asia - April 18, 2022</title>
+            <description>VOA Asia presents the best and most interesting stories from our veteran reporters covering East Asia and the Pacific. VOA Asia tells what U.S.-Asian relationships might mean in your daily life, and what Asians think about life in the United States.</description>
+            <guid>https://www.voanews.com/a/6513797.html</guid>            
+            <pubDate>Mon, 18 Apr 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>VOA Asia presents the best and most interesting stories from our veteran reporters covering East Asia and the Pacific. VOA Asia tells what U.S.-Asian relationships might mean in your daily life, and what Asians think about life in the United States.</itunes:summary>
+                <itunes:duration>00:25:00</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/04/18/20220418-220500-VEN060-program.mp3" type="audio/mpeg" length="24576000" />
+        </item>		
+        <item>
+            <title>VOA Asia - April 17, 2022</title>
+            <description>VOA Asia presents the best and most interesting stories from our veteran reporters covering East Asia and the Pacific. VOA Asia tells what U.S.-Asian relationships might mean in your daily life, and what Asians think about life in the United States.</description>
+            <guid>https://www.voanews.com/a/6512842.html</guid>            
+            <pubDate>Sun, 17 Apr 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>VOA Asia presents the best and most interesting stories from our veteran reporters covering East Asia and the Pacific. VOA Asia tells what U.S.-Asian relationships might mean in your daily life, and what Asians think about life in the United States.</itunes:summary>
+                <itunes:duration>00:25:00</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/04/17/20220417-220500-VEN060-program.mp3" type="audio/mpeg" length="24576000" />
+        </item>		
+        <item>
+            <title>VOA Asia - Underwater health care - April 07, 2022</title>
+            <description>Health care under the sea. Chinese accused of digging away homes. Americans in Ukraine. The war plight of animals. New York’s farm to park. China’s wolf warriors, in the movies that is. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6498626.html</guid>            
+            <pubDate>Thu, 07 Apr 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Health care under the sea. Chinese accused of digging away homes. Americans in Ukraine. The war plight of animals. New York’s farm to park. China’s wolf warriors, in the movies that is. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/04/07/20220407-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Sri Lanka in crisis - April 06, 2022</title>
+            <description>Turbulence in Sri Lanka. Aussie mosquitoes turn deadly. Trafficking Ukrainian refugees. Fighting Russia’s information war. Taxing the super-rich. Kashmir’s pencil village. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6496949.html</guid>            
+            <pubDate>Wed, 06 Apr 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Turbulence in Sri Lanka. Aussie mosquitoes turn deadly. Trafficking Ukrainian refugees. Fighting Russia’s information war. Taxing the super-rich. Kashmir’s pencil village. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/04/06/20220406-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Accusations of Russian atrocities - April 05, 2022</title>
+            <description>Accusations of atrocities. Ukrainian residents’ heartbreak. Afghanistan opium plant ban. Texas abortion debate. Climate change report. Drone delivery increasing. Chris Casquejo hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6495337.html</guid>            
+            <pubDate>Tue, 05 Apr 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Accusations of atrocities. Ukrainian residents’ heartbreak. Afghanistan opium plant ban. Texas abortion debate. Climate change report. Drone delivery increasing. Chris Casquejo hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/04/05/20220405-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Signs of atrocities in Ukraine - April 04, 2022</title>
+            <description>Apparent war crimes in Ukraine. Rising bread prices. Welcoming Ukrainians to Europe. Australia and India trade. Renewed immigration fight. Hope in a song.</description>
+            <guid>https://www.voanews.com/a/6493805.html</guid>            
+            <pubDate>Mon, 04 Apr 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Apparent war crimes in Ukraine. Rising bread prices. Welcoming Ukrainians to Europe. Australia and India trade. Renewed immigration fight. Hope in a song.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/04/04/20220404-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Australia&apos;s new help for Ukraine - April 03, 2022</title>
+            <description>Australia provides new help to Ukraine. War’s mental health impact. New COVID fight. Cambodia disabled artist displays hope. A change of space command. Music transcends war. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6492851.html</guid>            
+            <pubDate>Sun, 03 Apr 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Australia provides new help to Ukraine. War’s mental health impact. New COVID fight. Cambodia disabled artist displays hope. A change of space command. Music transcends war. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/04/03/20220403-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - A chilly place between Australia and China - March 31, 2022</title>
+            <description>A chilly place between Australia and China. Afghan women seek refuge. Afghan children for sale. The business of intricate Asian art and Rohingya education. Wartime social media. New York junk becomes art. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6500246.html</guid>            
+            <pubDate>Thu, 31 Mar 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>A chilly place between Australia and China. Afghan women seek refuge. Afghan children for sale. The business of intricate Asian art and Rohingya education. Wartime social media. New York junk becomes art. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/31/20220331-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Deepening ties with Singapore - March 30, 2022</title>
+            <description>Singapore’s leader visits Washington. Trying to snuff out Malaysian smoking. Resettling Pacific refugees. Ukraine refugees still on the move. Feeding the displaced. Pakistan’s progressive female farmer. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6500184.html</guid>            
+            <pubDate>Wed, 30 Mar 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Singapore’s leader visits Washington. Trying to snuff out Malaysian smoking. Resettling Pacific refugees. Ukraine refugees still on the move. Feeding the displaced. Pakistan’s progressive female farmer. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/30/20220330-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Biden stands by his words - March 29, 2022</title>
+            <description>Biden stands by his words. Ukrainian doctors’ war stories. Pacific island COVID outbreaks. Skyrocketing Thai food costs. Banking on teff. Reducing food waste. Chris Casquejo hosts VOA Asia.
+
+</description>
+            <guid>https://www.voanews.com/a/6500122.html</guid>            
+            <pubDate>Tue, 29 Mar 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Biden stands by his words. Ukrainian doctors’ war stories. Pacific island COVID outbreaks. Skyrocketing Thai food costs. Banking on teff. Reducing food waste. Chris Casquejo hosts VOA Asia.
+
+</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/29/20220329-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Week 5 of war in Ukraine - March 28, 2022</title>
+            <description>Week 5 of war in Ukraine. Food insecurity in Ukraine. Afghan girls want education. Marketing wine to China. Australia’s carbon abatement questioned. Recapping the Academy Awards. Chris Casquejo hosts VOA Asia.
+</description>
+            <guid>https://www.voanews.com/a/6500061.html</guid>            
+            <pubDate>Mon, 28 Mar 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Week 5 of war in Ukraine. Food insecurity in Ukraine. Afghan girls want education. Marketing wine to China. Australia’s carbon abatement questioned. Recapping the Academy Awards. Chris Casquejo hosts VOA Asia.
+</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/28/20220328-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Strong words from President Biden - March 27, 2022</title>
+            <description>President Biden speaks in Europe. Genocide declared in Myanmar. Insecurity over a new Asia security deal. Peace Corps volunteers return. Southeast Asian food. A special Oscar nominee. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6500007.html</guid>            
+            <pubDate>Sun, 27 Mar 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>President Biden speaks in Europe. Genocide declared in Myanmar. Insecurity over a new Asia security deal. Peace Corps volunteers return. Southeast Asian food. A special Oscar nominee. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/27/20220327-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Biden seeks unity against invasion of Ukraine - March 24, 2022</title>
+            <description>President Biden in Europe as Russia is accused of war crimes. North Korea launches a big missile. Afghan residents remain at high risk. Afghan refugees flee Ukraine. Remembering a diplomatic giant. Radio from space. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6477882.html</guid>            
+            <pubDate>Thu, 24 Mar 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>President Biden in Europe as Russia is accused of war crimes. North Korea launches a big missile. Afghan residents remain at high risk. Afghan refugees flee Ukraine. Remembering a diplomatic giant. Radio from space. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/24/20220324-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Biden, NATO discuss next moves for Ukraine - March 23, 2022</title>
+            <description>Biden seeks next move on Ukraine. Australia’s Ukraine diaspora speaks out. Troubling human rights in Afghanistan. Questions for a Supreme Court nominee. Myanmar low on power. Piñatas for refugees. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6476225.html</guid>            
+            <pubDate>Wed, 23 Mar 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Biden seeks next move on Ukraine. Australia’s Ukraine diaspora speaks out. Troubling human rights in Afghanistan. Questions for a Supreme Court nominee. Myanmar low on power. Piñatas for refugees. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/23/20220323-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Reuniting Ukrainian families in the U.S. - March 22, 2022</title>
+            <description>Reuniting Ukrainian families in the U.S. Political asylum challenges. Ending North Korea’s isolation. Pandemic wanes in India. Western U.S. water supplies worsen. Hi-tech fragrance creation. Chris Casquejo hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6484291.html</guid>            
+            <pubDate>Tue, 22 Mar 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Reuniting Ukrainian families in the U.S. Political asylum challenges. Ending North Korea’s isolation. Pandemic wanes in India. Western U.S. water supplies worsen. Hi-tech fragrance creation. Chris Casquejo hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/22/20220322-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Diplomacy for Ukraine - March 21, 2022</title>
+            <description>Diplomacy for Ukraine. Kiwi military aid. African mercenaries ready for Russia. Myanmar human rights. Asia loses Russian tourists. World Water Day.</description>
+            <guid>https://www.voanews.com/a/6484230.html</guid>            
+            <pubDate>Mon, 21 Mar 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Diplomacy for Ukraine. Kiwi military aid. African mercenaries ready for Russia. Myanmar human rights. Asia loses Russian tourists. World Water Day.</itunes:summary>
+                <itunes:duration>00:25:00</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/21/20220321-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24576000" />
+        </item>		
+        <item>
+            <title>VOA Asia - Asking China to help stop Russia&apos;s attack on Ukraine - March 20, 2022</title>
+            <description>Convincing China to side with peace. Japan boosts help for Ukraine. Global business leaves Russia. Malaysian commerce reawakens. A space telescope opens its eyes. Vietnamese coffee sisters. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6484176.html</guid>            
+            <pubDate>Sun, 20 Mar 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Convincing China to side with peace. Japan boosts help for Ukraine. Global business leaves Russia. Malaysian commerce reawakens. A space telescope opens its eyes. Vietnamese coffee sisters. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/20/20220320-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - More defensive weapons aid for Ukraine - March 17, 2022</title>
+            <description>New U.S. help for Ukraine. New Zealand plans to open up. Fighting an online war. Sri Lanka energy crisis. Reviving a special Bangladeshi fabric. Digital tokens go physical. The Arts for everyone. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6484003.html</guid>            
+            <pubDate>Thu, 17 Mar 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>New U.S. help for Ukraine. New Zealand plans to open up. Fighting an online war. Sri Lanka energy crisis. Reviving a special Bangladeshi fabric. Digital tokens go physical. The Arts for everyone. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/17/20220317-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Strategizing to stop conflict - March 16, 2022</title>
+            <description>NATO coordinates European strategy. Legal action for the downing of a Malaysian passenger plane. New Yorkers help Ukraine. U.S. Russians face backlash. Fighting Asian-American hate. Dangerous movie gangsters. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6483941.html</guid>            
+            <pubDate>Wed, 16 Mar 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>NATO coordinates European strategy. Legal action for the downing of a Malaysian passenger plane. New Yorkers help Ukraine. U.S. Russians face backlash. Fighting Asian-American hate. Dangerous movie gangsters. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:25:00</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/16/20220316-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24576000" />
+        </item>		
+        <item>
+            <title>VOA Asia - A warning for Beijing - March 15, 2022</title>
+            <description>Warning to Beijing. The financial cost of war. Digital soldiers in Ukraine. Furry friends rescued. Semiconductor shortage. Women of courage.</description>
+            <guid>https://www.voanews.com/a/6483879.html</guid>            
+            <pubDate>Tue, 15 Mar 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Warning to Beijing. The financial cost of war. Digital soldiers in Ukraine. Furry friends rescued. Semiconductor shortage. Women of courage.</itunes:summary>
+                <itunes:duration>00:25:00</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/15/20220315-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24576000" />
+        </item>		
+        <item>
+            <title>VOA Asia - Squeezing Moscow - March 14, 2022</title>
+            <description>Closing the vice on Moscow. Australia ups Russian sanctions. Ukraine factories retool. Prayers for Ukraine. Mumbai’s environmental cleanup.
+Skis meet rodeo.</description>
+            <guid>https://www.voanews.com/a/6478795.html</guid>            
+            <pubDate>Mon, 14 Mar 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Closing the vice on Moscow. Australia ups Russian sanctions. Ukraine factories retool. Prayers for Ukraine. Mumbai’s environmental cleanup.
+Skis meet rodeo.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/14/20220314-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Replacing Russian oil - March 13, 2022</title>
+            <description>Replacing Russian oil. North Korean missile tests. Aiding Myanmar’s internally displaced. China-Kenya trade issues. Asian American figure skating dominance. International tensions expand to space. Chris Casquejo hosts VOA Asia.
+
+</description>
+            <guid>https://www.voanews.com/a/6478741.html</guid>            
+            <pubDate>Sun, 13 Mar 2022 18:05:00 -0400</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Replacing Russian oil. North Korean missile tests. Aiding Myanmar’s internally displaced. China-Kenya trade issues. Asian American figure skating dominance. International tensions expand to space. Chris Casquejo hosts VOA Asia.
+
+</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/13/20220313-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Ukraine pleads for weapons - March 10, 2022</title>
+            <description>Ukraine pleads for more weapons. New South Korean president. U.S.-Taiwan-China relations. Australia announces more sanctions. Countering extremism in the U.S. Relief efforts for Ukraine.</description>
+            <guid>https://www.voanews.com/a/6456434.html</guid>            
+            <pubDate>Thu, 10 Mar 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Ukraine pleads for more weapons. New South Korean president. U.S.-Taiwan-China relations. Australia announces more sanctions. Countering extremism in the U.S. Relief efforts for Ukraine.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/10/20220310-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Russian oil banned - March 09, 2022</title>
+            <description>Russian oil ban bites. Australia adds Russian sanctions. Congress passes aid to Ukraine. U.S. guarantees Baltic security. Free press for Afghan sisters. “Deepfakes” help foreign films.</description>
+            <guid>https://www.voanews.com/a/6454827.html</guid>            
+            <pubDate>Wed, 09 Mar 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Russian oil ban bites. Australia adds Russian sanctions. Congress passes aid to Ukraine. U.S. guarantees Baltic security. Free press for Afghan sisters. “Deepfakes” help foreign films.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/09/20220309-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - The many fronts of conflict affecting the world - March 08, 2022</title>
+            <description>The effects of conflict from safety to diplomacy to fuel. Neighbors help Ukraine. New Zealand unveils sanctions. The United Nations weighs in. Afghan funds and Hong Kong health. Enjoying Chinese food in Africa. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6453154.html</guid>            
+            <pubDate>Tue, 08 Mar 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>The effects of conflict from safety to diplomacy to fuel. Neighbors help Ukraine. New Zealand unveils sanctions. The United Nations weighs in. Afghan funds and Hong Kong health. Enjoying Chinese food in Africa. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/08/20220308-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Difficult defense strategy decisions in Ukraine - March 07, 2022</title>
+            <description>Tough strategy decisions to counter Russia. Public opinion supports Ukraine. Difficulty delivering aid. The war on media. Women are honored. Revving engines in Pakistan. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6451677.html</guid>            
+            <pubDate>Mon, 07 Mar 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Tough strategy decisions to counter Russia. Public opinion supports Ukraine. Difficulty delivering aid. The war on media. Women are honored. Revving engines in Pakistan. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/07/20220307-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Russia&apos;s unprovoked assault on Ukraine continues - March 06, 2022</title>
+            <description>Russian attacks against Ukraine continue. People rush to escape Ukraine. U.S. lawmakers react. Australia begins divesting from Russia. Calls for Sri Lanka reform. Conflict extends beyond Earth. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6450812.html</guid>            
+            <pubDate>Sun, 06 Mar 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Russian attacks against Ukraine continue. People rush to escape Ukraine. U.S. lawmakers react. Australia begins divesting from Russia. Calls for Sri Lanka reform. Conflict extends beyond Earth. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/06/20220306-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Russia&apos;s Ukraine invasion intensifies - March 03, 2022</title>
+            <description>Russian invasion of Ukraine intensifies. Calls for immigration relief. Uyghur refugees share survival stories. Helping Afghan refugees. Massive Australia flooding. Museum controversy. Chris Casquejo hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6445240.html</guid>            
+            <pubDate>Thu, 03 Mar 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Russian invasion of Ukraine intensifies. Calls for immigration relief. Uyghur refugees share survival stories. Helping Afghan refugees. Massive Australia flooding. Museum controversy. Chris Casquejo hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/03/20220303-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Unity against Moscow - March 02, 2022</title>
+            <description>Unity against Moscow. Aussies arm Ukraine. U.N. assists refugees. Weaning off Russian oil. Surviving Xinjiang. Preventing avalanches</description>
+            <guid>https://www.voanews.com/a/6443514.html</guid>            
+            <pubDate>Wed, 02 Mar 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Unity against Moscow. Aussies arm Ukraine. U.N. assists refugees. Weaning off Russian oil. Surviving Xinjiang. Preventing avalanches</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/02/20220302-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Kiev resists Russia&apos;s unprovoked assault - March 01, 2022</title>
+            <description>Ukraine’s capital fights Russian assault. A mass exodus from Ukraine. A rush to help children. Asia reacts to Ukraine invasion. Floods submerge parts of Australia. Flying against insects. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6441883.html</guid>            
+            <pubDate>Tue, 01 Mar 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Ukraine’s capital fights Russian assault. A mass exodus from Ukraine. A rush to help children. Asia reacts to Ukraine invasion. Floods submerge parts of Australia. Flying against insects. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/03/01/20220301-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Russia opposition grows - February 28, 2022</title>
+            <description>Growing opposition to Russia. President Biden set to make a big speech. Anti-war protests fill streets. Seeking accountability for Sri Lanka human rights. Australian tourism returns. 50 years after an historic China visit. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6440343.html</guid>            
+            <pubDate>Mon, 28 Feb 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Growing opposition to Russia. President Biden set to make a big speech. Anti-war protests fill streets. Seeking accountability for Sri Lanka human rights. Australian tourism returns. 50 years after an historic China visit. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/02/28/20220228-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Growing support for Ukraine - February 27, 2022</title>
+            <description>Much of the world stands up behind Ukraine. International aid begins to flow to Ukraine. Global protests against Russia’s invasion. Far away family members try to help. Chinese phones grow in Africa. Conflict felt in space. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6439488.html</guid>            
+            <pubDate>Sun, 27 Feb 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Much of the world stands up behind Ukraine. International aid begins to flow to Ukraine. Global protests against Russia’s invasion. Far away family members try to help. Chinese phones grow in Africa. Conflict felt in space. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/02/27/20220227-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Moscow invades Ukraine - February 24, 2022</title>
+            <description>Moscow invades Ukraine. Ukrainians evacuate. Markets react. Why war in the breadbasket could cost us all. Battling COVID in Hong Kong. Study finds breastfeeding discouraged.</description>
+            <guid>https://www.voanews.com/a/6449217.html</guid>            
+            <pubDate>Thu, 24 Feb 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Moscow invades Ukraine. Ukrainians evacuate. Markets react. Why war in the breadbasket could cost us all. Battling COVID in Hong Kong. Study finds breastfeeding discouraged.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/02/24/20220224-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Western allies place sanctions against Russia - February 23, 2022</title>
+            <description>Sanctions on Russia. Ukraine conflict harms children. China’s rare earth dominance. Afghan refugees find education. Outreach to Afghan women. Taking a ride on a self-driving shuttle.</description>
+            <guid>https://www.voanews.com/a/6449155.html</guid>            
+            <pubDate>Wed, 23 Feb 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Sanctions on Russia. Ukraine conflict harms children. China’s rare earth dominance. Afghan refugees find education. Outreach to Afghan women. Taking a ride on a self-driving shuttle.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/02/23/20220223-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Pushing back against a push into Ukraine - February 22, 2022</title>
+            <description>Russia’s President takes a step closer to invasion. Ukrainians living in the Unites States react. Afghanistan fights measles. Afghans adjusting to U.S. life. Drones go viral. Reading letters from the past. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6449093.html</guid>            
+            <pubDate>Tue, 22 Feb 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Russia’s President takes a step closer to invasion. Ukrainians living in the Unites States react. Afghanistan fights measles. Afghans adjusting to U.S. life. Drones go viral. Reading letters from the past. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:25:00</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/02/22/20220222-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24576000" />
+        </item>		
+        <item>
+            <title>VOA Asia - Edging closer to conflict - February 21, 2022</title>
+            <description>Increased military activity near Ukraine. Growing Asia debt problem. Afghan universities reopen. The business of selling planes. Marine animal sounds. Clean new technology. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6449032.html</guid>            
+            <pubDate>Mon, 21 Feb 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Increased military activity near Ukraine. Growing Asia debt problem. Afghan universities reopen. The business of selling planes. Marine animal sounds. Clean new technology. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/02/21/20220221-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Beijing Olympics conclude - February 20, 2022</title>
+            <description>Diplomacy still at the front of Ukraine crisis. Beijing Olympics conclude. Indonesia plans for a Capital move. A Martian anniversary. Tiny house village. The electric car race. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6448978.html</guid>            
+            <pubDate>Sun, 20 Feb 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Diplomacy still at the front of Ukraine crisis. Beijing Olympics conclude. Indonesia plans for a Capital move. A Martian anniversary. Tiny house village. The electric car race. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/02/20/20220220-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - European diplomacy tries to steer against war - February 17, 2022</title>
+            <description>Russia Ukraine latest. Energy prices escalate. Indonesia takes on China. The fate of Afghan women. Helping Afghan refugees. Beijing Olympics update.</description>
+            <guid>https://www.voanews.com/a/6438156.html</guid>            
+            <pubDate>Thu, 17 Feb 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Russia Ukraine latest. Energy prices escalate. Indonesia takes on China. The fate of Afghan women. Helping Afghan refugees. Beijing Olympics update.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/02/17/20220217-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Reacting to front line changes - February 16, 2022</title>
+            <description>Washington reacts to latest Russia moves. No lockdown in Hong Kong. Beijing Olympics update. NATO meets on Ukraine. North American auto production restarts. Training women to code.</description>
+            <guid>https://www.voanews.com/a/6438094.html</guid>            
+            <pubDate>Wed, 16 Feb 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Washington reacts to latest Russia moves. No lockdown in Hong Kong. Beijing Olympics update. NATO meets on Ukraine. North American auto production restarts. Training women to code.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/02/16/20220216-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Ukraine diplomacy accelerates - February 15, 2022</title>
+            <description>Ukraine diplomacy moves to high gear. Tonga continues its recovery. Helping Myanmar’s displaced. China’s increasing presence in Africa. Afghanistan’s stark media changes. Social issue artists. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6438032.html</guid>            
+            <pubDate>Tue, 15 Feb 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Ukraine diplomacy moves to high gear. Tonga continues its recovery. Helping Myanmar’s displaced. China’s increasing presence in Africa. Afghanistan’s stark media changes. Social issue artists. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/02/15/20220215-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Urging foreign nationals to leave Ukraine - February 14, 2022</title>
+            <description>Urging some people to leave Ukraine. A visit to the front line. Trading organs for money. The COVID fight continues. Hot Olympics souvenirs. A musical painting experience. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6437971.html</guid>            
+            <pubDate>Mon, 14 Feb 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Urging some people to leave Ukraine. A visit to the front line. Trading organs for money. The COVID fight continues. Hot Olympics souvenirs. A musical painting experience. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/02/14/20220214-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        <item>
+            <title>VOA Asia - Blinken on a pro-democracy Asia tour - February 13, 2022</title>
+            <description>Indo-Pacific diplomacy on tour. Bracing for violence in Ukraine. Afghan money moves. Helping Afghan refugees rebuild lives. A special space selfie. A super sports spectacle. Jim Stevenson hosts VOA Asia.</description>
+            <guid>https://www.voanews.com/a/6437917.html</guid>            
+            <pubDate>Sun, 13 Feb 2022 17:05:00 -0500</pubDate>
+            
+                <itunes:author>VOA</itunes:author>
+                <itunes:summary>Indo-Pacific diplomacy on tour. Bracing for violence in Ukraine. Afghan money moves. Helping Afghan refugees rebuild lives. A special space selfie. A super sports spectacle. Jim Stevenson hosts VOA Asia.</itunes:summary>
+                <itunes:duration>00:24:59</itunes:duration>
+                      
+                <itunes:image href="https://gdb.voanews.com/0a46e323-aff2-47f4-bbdf-34fe1204ea9a_w640_h360.png" />
+                <itunes:episodeType>full</itunes:episodeType>
+                <enclosure url="https://av.voanews.com/clips/VEN/2022/02/13/20220213-220500-VEN060-program_hq.mp3" type="audio/mpeg" length="24559616" />
+        </item>		
+        </channel></rss>
