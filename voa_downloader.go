@@ -9,6 +9,7 @@ import (
 	"net/url"
 	"os"
 	"regexp"
+	"strconv"
 	"strings"
 	"sync"
 )
@@ -81,8 +82,21 @@ func DownloadFile(fileUrl string) {
 }
 
 func main() {
+	if len(os.Args) != 2 {
+		log.Println("Usage: app <number of files to download>")
+		return
+	}
+	numberOfFiles, err := strconv.Atoi(os.Args[1])
+	if err != nil {
+		log.Fatalln("Entered number was not valid")
+	}
+
+	if err := os.RemoveAll("./downloads"); err != nil {
+		log.Fatal(err)
+	}
+
 	rss := GetRssFeed()
-	mp3List := GetMp3List(rss, 5)
+	mp3List := GetMp3List(rss, numberOfFiles)
 
 	var wg sync.WaitGroup
 	for _, mp3Url := range mp3List {
