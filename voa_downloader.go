@@ -2,10 +2,15 @@ package main
 
 import (
 	"fmt"
+	"io"
 	"io/ioutil"
 	"log"
 	"net/http"
+	"net/url"
+	"os"
 	"regexp"
+	"strings"
+	"sync"
 )
 
 const RSS_URL string = "https://www.voanews.com/podcast/?zoneId=5082"
@@ -36,7 +41,56 @@ func GetMp3List(rssFeed string, numberOfFiles int) (mp3List []string) {
 	return
 }
 
+func DownloadFile(fileUrl string) {
+	// Create a download directory if not existing
+	downloadPath := "downloads"
+	_ = os.Mkdir(downloadPath, os.ModePerm)
+
+	// Build fileName from fileUrl
+	fileURL, err := url.Parse(fileUrl)
+	if err != nil {
+		log.Fatal(err)
+	}
+	path := fileURL.Path
+	segments := strings.Split(path, "/")
+	fileName := downloadPath + "/" + segments[len(segments)-1]
+
+	// Create blank file
+	file, err := os.Create(fileName)
+	if err != nil {
+		log.Fatal(err)
+	}
+	client := http.Client{
+		CheckRedirect: func(r *http.Request, via []*http.Request) error {
+			r.URL.Opaque = r.URL.Path
+			return nil
+		},
+	}
+	// Put content on file
+	resp, err := client.Get(fileUrl)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer resp.Body.Close()
+
+	size, err := io.Copy(file, resp.Body)
+
+	defer file.Close()
+
+	fmt.Printf("Downloaded a file %s with size %d \n", fileName, size)
+}
+
 func main() {
 	rss := GetRssFeed()
-	fmt.Println(rss)
+	mp3List := GetMp3List(rss, 5)
+
+	var wg sync.WaitGroup
+	for _, mp3Url := range mp3List {
+		wg.Add(1)
+		go func(url string) {
+			DownloadFile(url)
+			wg.Done()
+		}(mp3Url)
+	}
+	wg.Wait()
 }
